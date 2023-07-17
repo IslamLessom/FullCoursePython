@@ -1,6 +1,5 @@
 name = "Islam "
 
-
 # print(len(name)) # длина всей строки
 # print(name.find("o")) # ишет под каким индексом находится буква o
 # print(name.capitalize()) # Делает первую букву заглавной
